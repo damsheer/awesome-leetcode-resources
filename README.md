@@ -118,12 +118,12 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 ### Binary Trees
-  - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
-  - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
-  - [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)
-  - [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)
-  - [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/)
-  - [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)
+  - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [X]
+  - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) [X]
+  - [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) [X]
+  - [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) [X]
+  - [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/description/) [X]
+  - [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) [X]
   - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)
   - [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/description/)
   - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
