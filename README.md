@@ -113,7 +113,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Rotate List](https://leetcode.com/problems/rotate-list/description/)
 - [Sort List](https://leetcode.com/problems/sort-list/description/)
 - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
-- [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+- [LRU Cache](https://leetcode.com/problems/lru-cache/description/)[x]
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
