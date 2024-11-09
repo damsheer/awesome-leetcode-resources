@@ -102,8 +102,8 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 
 ## 💻 Must-Do Problems (Topic Wise)
 ### Linked List
-- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
-- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)[x]
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)[x]
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
@@ -144,7 +144,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
   - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
   - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)
 ### Backtracking
-- [Permutations](https://leetcode.com/problems/permutations/description/)
+- [Permutations](https://leetcode.com/problems/permutations/description/)[x]
 - [Subsets](https://leetcode.com/problems/subsets/description/)
 - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
 - [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
